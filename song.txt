@@ -1,1 +1,2 @@
-Test
+ADD new line 1
+ADD new line 2
